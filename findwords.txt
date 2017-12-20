@@ -1,0 +1,4 @@
+boss
+man
+truck
+friend
